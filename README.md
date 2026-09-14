@@ -105,11 +105,14 @@ Model Evaluation
 
 ## 📁 Project Structure
 
+```text
 Electric-Vehicle-Price-Prediction/
 │
 ├── EV_Price_Prediction.ipynb
 ├── ev_car_India_dataset.csv
 └── README.md
+
+```
 
 ---
 
